@@ -9,9 +9,15 @@ The product is essentially a teddy bear spy cam. The camera activates when there
 # Built With
 
 Arduino
+
 Adafruit
+
 esp8266breakout
+
 c++
+
 python
+
 openCV 3.3.1
+
 80/20 composites
